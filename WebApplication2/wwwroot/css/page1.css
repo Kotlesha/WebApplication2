@@ -1,0 +1,23 @@
+﻿img {
+    width: 400px;
+}
+
+table {
+    width: 100%;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+body{
+    background-color:lightblue;
+}
+
+h1{
+    text-align:center;
+    color:black;
+}
